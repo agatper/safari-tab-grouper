@@ -3,6 +3,7 @@
   "name": "Tab Grouper",
   "version": "0.1",
   "description": "Visually group and switch between open tabs.",
+  "permissions": "tabs",
   "action": {
     "default_popup": "popup.html",
     "default_title": "Tab Grouper"
