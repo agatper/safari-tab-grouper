@@ -1,6 +1,1 @@
-First hands-on coding project — a Safari Web Extension that lets me
-visually group open tabs (drag-to-group or right-click, Figma-style) and
-jump between them. Starts as a toolbar popup; later the same logic gets
-lifted into a bar injected into the page, pinned to the bottom, so it's
-persistently visible. Learning git/GitHub, JavaScript, and the
-WebExtensions API along the way.
+First hands-on coding project: a Safari Web Extension that lets me visually group open tabs (drag-to-group or right-click, Figma-style) and jump between them. Starts as a toolbar popup; later the same logic gets lifted into a bar injected into the page, pinned to the bottom, so it's persistently visible. Learning git/GitHub, JavaScript, and the WebExtensions API along the way.
